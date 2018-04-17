@@ -1,0 +1,5 @@
+LAB03 - REDUCCION:
+
+(1) Entienda el algoritmo de seq.c
+(2) Usando OpenMP, intente paralelizar la reduccion.
+(3) Trate de hacerlo manualmente tambien y compare el rendimiento vs la version mas automatica.
